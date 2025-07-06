@@ -1,6 +1,6 @@
-# Hello! 
+## Hello! 
 
-**About**
+### About
 
 ✧ I’m Mauro Ferreira, an electrical engineering student focused on hardware and embedded systems.
 
@@ -10,7 +10,7 @@
 
 ---
 
-**Tools**
+### **Tools**
 
 ![KiCad](https://img.shields.io/badge/-KiCad-blue?style=flat&logo=kicad)
 ![ESP32](https://img.shields.io/badge/-ESP32-323330?style=flat&logo=espressif)
@@ -22,7 +22,7 @@
 
 ---
 
- **Languages**
+ ### Languages
  
  ![Verilog](https://img.shields.io/badge/-Verilog-777BB4?style=flat)
  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
@@ -33,7 +33,7 @@
 
 ---
 
-**Connect**
+### Connect
 
 LinkedIn : www.linkedin.com/in/mauroferreira123
 
