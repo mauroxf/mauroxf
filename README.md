@@ -2,7 +2,7 @@
 
 ### About
 
-✧ I’m Mauro Ferreira, an electrical engineering student focused on hardware and embedded systems.
+✧ I’m Mauro Ferreira, an electrical engineering student focused on hardware design and flow.
 
 ✧ My interests include VLSI, RTL, Physical Design, PCB's and all things hardware & signals. 
 
