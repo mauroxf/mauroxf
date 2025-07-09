@@ -6,7 +6,7 @@
 
 ✧ My interests include VLSI, RTL, Physical Design, PCB's and all things hardware & signals. 
 
-✧ This GitHub tracks my learning progress and highlights projects I’ve worked on.
+✧ This GitHub tracks my learning progress and highlights projects I’ve worked on (All of this is self taught).
 
 ---
 
